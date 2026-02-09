@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @shanAweb. An AI Engineer<br>👀 I’m interested in AI Engineering, System Design, Scalable Architectures, DevOps, Cloud Computing and Deep Learning Ai<br>🌱 I’m currently working as AI Team Lead<br>💞️ I’m looking to collaborate on AI and Cloud<br>📫 Reach me over https://www.linkedin.com/in/shan-a-b697b1238/<br>😄 Pronouns: He/him<br>⚡ Fun fact: Obsessed with scalable and efficient system design
+👋 Hi, I’m Shan Asif. An AI Engineer<br>👀 I’m interested in AI Engineering, System Design, Scalable Architectures, DevOps, Cloud Computing and Deep Learning Ai<br>🌱 I’m currently working as AI Team Lead<br>💞️ I’m looking to collaborate on AI and Cloud<br>📫 Reach me over https://www.linkedin.com/in/shan-a-b697b1238/<br>😄 Pronouns: He/him<br>⚡ Fun fact: Obsessed with scalable and efficient system design
 
 
 ## 🌐 Socials:

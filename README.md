@@ -204,11 +204,11 @@
 
 ---
 
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws)
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
+  
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=shanAweb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 

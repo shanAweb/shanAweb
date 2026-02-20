@@ -12,7 +12,7 @@
 
 <br/>
 
-> 🚀 AI Team Lead | Obsessed with scalable, efficient system design | He/Him
+🚀 AI Team Lead | Obsessed with scalable, efficient system design | He/Him
 
 </div>
 

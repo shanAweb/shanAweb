@@ -204,6 +204,8 @@
 
 ---
 
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws)
+
 ## 🏆 GitHub Trophies
 
 <div align="center">

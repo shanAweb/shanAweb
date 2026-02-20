@@ -182,12 +182,14 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanAweb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=shanAweb&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanAweb&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanAweb&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanAweb&theme=tokyonight" height="180" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanAweb&theme=tokyonight&utcOffset=5" height="180" alt="Productive Time" />
+  <img src="https://streak-stats.demolab.com?user=shanAweb&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak" />
 </div>
 
 ---

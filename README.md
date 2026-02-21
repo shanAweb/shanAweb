@@ -222,3 +222,7 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <i>⚡ "First, solve the problem. Then, write the code." — John Johnson</i>
+</div>

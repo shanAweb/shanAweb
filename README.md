@@ -204,20 +204,21 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=shanAweb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Stars](https://img.shields.io/github/stars/shanAweb?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)
+![Followers](https://img.shields.io/github/followers/shanAweb?style=for-the-badge&logo=github&label=Followers&color=6C63FF)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&color=0d9488&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FshanAweb)
+![Gists](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Gists&color=e11d48&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FshanAweb)
 
 </div>
 
 ---
 
 <div align="center">
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=shanAweb&icon=0&color=6)](https://visitcount.itsvg.in)
-
+  <img src="https://komarev.com/ghpvc/?username=shanAweb&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 </div>
+
+<br/>

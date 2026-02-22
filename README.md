@@ -18,8 +18,26 @@
 
 ---
 
-## My Publications
-(https://www.researchgate.net/publication/398033265_Towards_an_Intelligent_Automation_Framework_for_Improving_Supermarket_Sales_using_Deep_Learning_and_Computer_Vision)
+📄 Publications
+<div align="center">
+<table>
+  <tr>
+    <td align="left" width="100%">
+      <h3>🔬 Towards an Intelligent Automation Framework for Improving Supermarket Sales using Deep Learning and Computer Vision</h3>
+      <p>
+        <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" />
+        <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI%20Automation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      </p>
+      <p>Proposed an intelligent automation framework leveraging Deep Learning and Computer Vision to optimize supermarket sales strategies — bridging the gap between AI research and real-world retail applications.</p>
+      <a href="https://www.researchgate.net/publication/398033265_Towards_an_Intelligent_Automation_Framework_for_Improving_Supermarket_Sales_using_Deep_Learning_and_Computer_Vision">
+        <img src="https://img.shields.io/badge/Read%20Publication-%2300CCBB.svg?style=for-the-badge&logo=researchgate&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
 ## 🧑‍💻 Languages
 

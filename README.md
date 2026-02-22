@@ -18,7 +18,7 @@
 
 ---
 
-📄 Publications
+## 📄 Publications
 <div align="center">
 <table>
   <tr>

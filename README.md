@@ -18,6 +18,9 @@
 
 ---
 
+## My Publications
+(https://www.researchgate.net/publication/398033265_Towards_an_Intelligent_Automation_Framework_for_Improving_Supermarket_Sales_using_Deep_Learning_and_Computer_Vision)
+
 ## 🧑‍💻 Languages
 
 <div align="center">

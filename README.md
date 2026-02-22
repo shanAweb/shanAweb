@@ -29,6 +29,29 @@
         <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
         <img src="https://img.shields.io/badge/AI%20Automation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <!-- LLM -->
+        <img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
+        
+        <!-- Generative AI -->
+        <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=google-gemini&logoColor=white" />
+        
+        <!-- RAG -->
+        <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+        
+        <!-- Digital Twins -->
+        <img src="https://img.shields.io/badge/Digital%20Twins-00BCD4?style=for-the-badge&logo=azure-devops&logoColor=white" />
+        
+        <!-- Vision LLMs -->
+        <img src="https://img.shields.io/badge/Vision%20LLMs-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+        
+        <!-- NLP -->
+        <img src="https://img.shields.io/badge/NLP-FF4081?style=for-the-badge&logo=spacy&logoColor=white" />
+        
+        <!-- Python -->
+        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+        
+        <!-- JavaScript -->
+        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
       </p>
       <p>Proposed an intelligent automation framework leveraging Deep Learning and Computer Vision to optimize supermarket sales strategies — bridging the gap between AI research and real-world retail applications.</p>
       <a href="https://www.researchgate.net/publication/398033265_Towards_an_Intelligent_Automation_Framework_for_Improving_Supermarket_Sales_using_Deep_Learning_and_Computer_Vision">
